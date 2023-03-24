@@ -1,0 +1,23 @@
+.top-slider{
+    background-image: linear-gradient(rgb(235,248,250,0.9),rgb(235,248,250,0.9)), url('../assets/uniurbstore.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+}
+
+.wahtsaap{
+    position: fixed;
+    bottom: 200px;
+    font-family: sans-serif;
+    right: 10px;
+    opacity: 0.8;
+}
+
+.wahtsaap-colo{
+    color: rgb(255, 255, 255);
+    background-color: rgb(26, 200, 44);
+    padding: 10px;
+    border-radius: 100px;
+    font-size: 15px;
+    text-transform: inherit;
+}
